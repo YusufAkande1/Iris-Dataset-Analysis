@@ -94,5 +94,4 @@ This project was completed as part of the Codveda Technologies Data Analytics In
 
 ## Author
 Yusuf Akande
-
-This project was completed as part of the Codveda Technologies Data Analytics Internship.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f2fcbd81-1a14-4409-984d-eff6a552fef9" />
