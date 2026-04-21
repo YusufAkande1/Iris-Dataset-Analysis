@@ -97,6 +97,4 @@ Yusuf Akande
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1163e31-aa06-4dbf-8c6a-a7d6769463c3" />
 
-
-
 This project was completed as part of the Codveda Technologies Data Analytics Internship.
