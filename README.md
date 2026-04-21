@@ -32,24 +32,24 @@ Species
 
 ## Key Analysis Performed
 
-### 1. Data Cleaning & Preprocessing
+#### 1. Data Cleaning & Preprocessing
 Checked for missing values and duplicates
 Standardized column formats
 Ensured correct data types
 
-### 2. Exploratory Data Analysis (EDA)
+#### 2. Exploratory Data Analysis (EDA)
 Summary statistics (mean, median, standard deviation)
 Histograms and boxplots to understand distribution
 Scatter plots to identify relationships
 Correlation analysis between features
 
-### 3. Regression Analysis
+#### 3. Regression Analysis
 Built a Linear Regression model to predict petal length
 Evaluated model using:
 R-squared
 Mean Squared Error (MSE)
 
-### 4. Clustering (K-Means)
+#### 4. Clustering (K-Means)
 Standardized dataset using StandardScaler
 Applied K-Means clustering (k = 3)
 Used the Elbow Method to determine optimal clusters
@@ -73,13 +73,11 @@ Strong positive correlation between sepal length and petal length
 K-Means clustering grouped data into 3 distinct clusters
 Clusters closely align with actual species classification
 
-## Project Structure
-├── iris.csv
-├── Iris.py
-├── Iris_2.py
-├── Iris_3.py
-├── IRIS.pbix
-└── README.md
+## Files Included
+- Power BI Dashboard (.pbix)
+- Dataset (.csv)
+- Python File (.py)
+
 
 ## Conclusion
 
@@ -90,6 +88,15 @@ Apply machine learning techniques
 Create meaningful visualizations
 Build interactive dashboards
 
-⭐ Acknowledgment
+## Acknowledgment
+
+This project was completed as part of the Codveda Technologies Data Analytics Internship.
+
+## Author
+Yusuf Akande
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1163e31-aa06-4dbf-8c6a-a7d6769463c3" />
+
+
 
 This project was completed as part of the Codveda Technologies Data Analytics Internship.
